@@ -50,6 +50,7 @@ Congrats!! Your in the waiting queue, now you have to wait, don't turn off your 
 Some useful links:
 https://www.risczero.com/blog/ceremony-contribution-public-instructions
 https://twitter.com/mztacat/status/1781403238887297318
+
 If you need some help can go in the RISC Zero discord too:
 https://discord.com/invite/risczero/
 
